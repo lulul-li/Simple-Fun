@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1910816,
+    "Username": "lulul-li",
+    "Name": "lulul-li",
+    "Email": "s987337613@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/567f482a5165d01ad39026e6e4ef04f8?s=80&d=identicon",
+    "PrivateToken": "297a9a9c9dee00c75054bcbc49956d2070b6b473296a228de7f87e1f5972785e",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
