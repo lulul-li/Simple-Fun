@@ -1,0 +1,15 @@
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Simple-Fun.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Simple-Fun.pdb
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\nunit.framework.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\bin\Debug\nunit.framework.xml
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\obj\Debug\Simple-Fun.csprojResolveAssemblyReference.cache
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\obj\Debug\Simple-Fun.csproj.CoreCompileInputs.cache
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\obj\Debug\Simple-Fun.dll
+C:\CodeWar\SimpleFun\Simple-Fun\Simple-Fun\obj\Debug\Simple-Fun.pdb
